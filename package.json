@@ -1,0 +1,22 @@
+{
+  "name": "get-pornhub-video-url",
+  "version": "1.0.2",
+  "description": "获取 P 站视频下载地址的浏览器端脚本。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lecepin/get-pornhub-download-url.git"
+  },
+  "keywords": [
+    "pornhub"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lecepin/get-pornhub-download-url/issues"
+  },
+  "homepage": "https://github.com/lecepin/get-pornhub-download-url#readme"
+}

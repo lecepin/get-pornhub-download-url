@@ -12,7 +12,7 @@
         console.table(
           data.map((item) => ({ 质量: item.quality, 地址: item.videoUrl }))
         );
-        drawInfoInPage(data, "___lp_ph_info_dom");
+        drawInfoInPage(data, "___lp_ph_info_dom", true);
       })
       .catch((error) => {
         alert("视频详情获取失败");
