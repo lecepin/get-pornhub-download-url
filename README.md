@@ -1,3 +1,7 @@
+> ⚡ 请直接用 [夸克浏览器 for Android](https://www.myquark.cn/)，自动识别、非登陆 高速下载。
+
+---
+
 # get-pornhub-download-url
 
 获取 P 站视频下载地址的浏览器端脚本。
